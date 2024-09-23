@@ -1,0 +1,27 @@
+const String splashView='/';
+const String loginView='/login';
+const String signUpView='/signUp';
+const String homeView='/home';
+const String adminView='/admin';
+const String users='users';
+const String kName='name';
+const String kEmail='email';
+const String kPassword='password';
+const String kImage='image';
+const String kPhone='phone';
+const String kProductsCollection='products';
+const String editProductView='/editProductView';
+const String addProductView='/addProductView';
+const String manageProductView='/manageProductView';
+const String productInfo='/productInfo';
+const String profileView='/profileView';
+const String productByCategoryView='/productByCategoryView';
+const String cardView='/cardView';
+const String kProductName='productName';
+const String kProductDescription='productDescription';
+const String kProductPrice='productPrice';
+const String kProductCategory='productCategory';
+const String kProductImage='productImage';
+const String kProductQuantity='productQuantity';
+
+const List<String> kCategories=['Android Mobiles', 'Ios Mobiles', 'Laptops', 'Tablets','Tv'];
